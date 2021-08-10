@@ -257,7 +257,7 @@ int board_mmc_init(bd_t *bis)
 	int i;
 
 	/*
-	 * According to the board_mmc_init() the following map is done:
+	 * According to the board_mmc_init() the following map is done :
 	 * (U-boot device node)    (Physical Port)
 	 * mmc0                    SD2
 	 * mmc1                    SD3
